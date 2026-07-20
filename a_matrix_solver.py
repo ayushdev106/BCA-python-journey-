@@ -1,4 +1,4 @@
-# 🔢 Matrix Solver (Structure Check)
+# Matrix Solver (Structure Check)
 
 # 1. Matrix 1 ke dimensions liye
 rows_1 = int(input("Matrix 1 ke Rows likho: "))
