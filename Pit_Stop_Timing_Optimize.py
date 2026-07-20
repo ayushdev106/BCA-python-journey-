@@ -1,4 +1,4 @@
-# 🏁 Pit Stop Timing Optimizer 🔧
+#  Pit Stop Timing Optimizer 
 #
 # 1. Ask the user for the total race time in seconds.
 # 2. Ask how many pit stops were made.
